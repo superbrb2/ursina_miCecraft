@@ -1,0 +1,7 @@
+Known pipe types:
+  wglGraphicsPipe
+(3 aux display modules not yet loaded.)
+:pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:pnmimage:png(warning): iCCP: known incorrect sRGB profile
+AL lib: (EE) alc_cleanup: 1 device not closed
+^C
